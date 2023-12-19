@@ -256,7 +256,7 @@ class Derechos extends HTMLElement {
       ${doctor}
       <footer class="footer">
   <div class="footer-content">
-    <p>&copy; 2023 ESPE - Jacome Ivonne </p>
+    <p>&copy; 2023 ESPE - Chora Liliana - Jacome Ivonne - Douglas Moreno  </p>
   </div>
 </footer>
     `;
